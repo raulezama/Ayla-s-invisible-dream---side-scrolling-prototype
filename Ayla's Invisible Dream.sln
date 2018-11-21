@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ayla's Invisible Dream", "Ayla's Invisible Dream.csproj", "{8045CE35-F568-C05D-2DCE-FB8CF0CCC6A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ayla's Invisible Dream.Editor", "Ayla's Invisible Dream.Editor.csproj", "{265DEC5B-CE8D-2842-1348-A301E5610E6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8045CE35-F568-C05D-2DCE-FB8CF0CCC6A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8045CE35-F568-C05D-2DCE-FB8CF0CCC6A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8045CE35-F568-C05D-2DCE-FB8CF0CCC6A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8045CE35-F568-C05D-2DCE-FB8CF0CCC6A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{265DEC5B-CE8D-2842-1348-A301E5610E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265DEC5B-CE8D-2842-1348-A301E5610E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265DEC5B-CE8D-2842-1348-A301E5610E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265DEC5B-CE8D-2842-1348-A301E5610E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
